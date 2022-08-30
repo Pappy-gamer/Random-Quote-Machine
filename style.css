@@ -1,0 +1,38 @@
+
+h1 {text-align: center;}
+div {
+    text-align: center;
+    font-size: x-large;
+    font-style: italic;
+    font-weight: bold;
+    color: rgb(0, 0, 0);
+    margin-top: 50px; 
+    margin-bottom: 50px;
+}
+
+
+    body {
+      background-image: url(https://imgs.search.brave.com/xBKvXXRuW7Mcao4Rvk6GRZqK_iwyCYOdC_O_iBX2d4M/rs:fit:989:225:1/g:ce/aHR0cHM6Ly90c2Ux/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5z/R3Vhb1l0cGRhcTJ4/SmRTQ2MycjV3SGFE/aiZwaWQ9QXBp);
+      background-repeat: no-repeat;
+            background-attachment: fixed; 
+            background-size: cover;
+        
+    }
+    #btnTwo
+    {
+        display: block;
+        margin: auto;
+        color: black;
+        background-color: white;
+        border-radius: 1.9rem;
+        width: 150px;
+        cursor: pointer;
+    }
+
+    #btnTwo:hover
+    {
+        background-color: rgb(7, 205, 245);
+        color: white;
+        transition-duration: 0.5s;
+    }
+
